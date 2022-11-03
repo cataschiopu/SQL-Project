@@ -137,14 +137,4 @@ c. compute the average cost obtained from location 1
 
 d. order the events based on their defined date
 
-e. compute the total cost associated with each location (hint grouped by)
-
-
-
-3. Perform the following queries using both tables
-
-a. Order location name, descending, after their associated event cost
-
-b. Select location name, location cost and event cost for a specific event
-
-c. Return the first 3 events (with eventName, locationname), that have the greatest event cost, in alphabetical order (after their names)
+e. compute the total cost associated with each location 
